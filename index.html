@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113288689-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-113288689-1');
+    </script>
+    <script>
+    // Seguimiento de enlaces externos
+    var trackOutboundLink = function(url) {
+       ga('send', 'event', 'outbound', 'click', url, {
+         'transport': 'beacon',
+         'hitCallback': function(){document.location = url;}
+       });
+    }
+    </script>
+
+  <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Blank Template B4!</title>
+
+    <meta name="description" content="Plantillas en blanco basada en Bootstrap 4. Listas para usar. Rápidas, Ligeras, Completas, Gratis. Construida con estilo y librerías CDN externas, permite comenzar a trabajar de inmediato sin instalar nada extra.">
+    <meta name="keywords" content="Bootstrap template, plantilla bootstrap, blank template, plantilla en blanco, html5 template, free, gratis, plantillas vacías, free templates">
+    <meta name="revisit-after" content="1 month">
+    <meta name="robots" content="index,follow" />
+    <meta name="author" content="GarciaGArturo.github.io">
+
+  <!-- Favicons -->
+    <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/favicon.ico" />
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/favicon.png" />
+    <link rel="icon" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/animated_favicon.gif" type="image/gif" >
+
+    <link rel="icon" type="image/png" sizes="16x16" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/favicon-64x64.png">
+    <link rel="icon" type="image/png" sizes="194x194" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/favicon-194x194.png">
+
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/apple-touch-icon-180x180.png">
+
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/android-chrome-256x256.png" sizes="256x256"> 
+
+    <link rel="manifest" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/manifest.json">
+    <meta name="apple-mobile-web-app-title" content="https://garciagarturo.github.io">
+    <meta name="application-name" content="https://garciagarturo.github.io">
+    <meta name="msapplication-TileColor" content="#ffc40d">
+    <meta name="msapplication-TileImage" content="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/mstile-150x150.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="mask-icon" href="https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/safari-pinned-tab.svg" color="#5bbad5">   
+
+  <!-- OpenGraph -->
+    <meta property="og:title" content="Blank Template B4!" />
+    <meta property="og:description" content="Plantillas basadas en Bootstrap 4. Listas para usar. Rápidas, Ligeras, Completas y Gratis. Construidas con estilo y librerías CDN externas, permite comenzar a trabajar de inmediato sin instalar nada extra." />
+
+    <meta property="og:image" content="https://raw.githubusercontent.com/GarciaGArturo/BlankTemplate-B4/master/assets/images/og-blank-b4.jpg" /> 
+    <meta property="og:image:alt" content="https://raw.githubusercontent.com/GarciaGArturo/BlankTemplate-B4/master/assets/images/og-blank-lite-example.jpg" />
+    <meta property="og:site_name" content="Blank Template B4!" />
+
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://garciagarturo.github.io/BlankTemplate-B4/lite/" />
+    <meta property="article:tag" content="templates, plantillas, html5, bootstrap" />
+
+    <meta property="article:author" content="https://www.facebook.com/garciagarturo" />
+    <meta property="article:publisher" content="https://www.facebook.com/Tu-en-Internet-1752717881669199" />
+
+  <!-- Bootstrap core CSS y fuente-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Saira|Raleway:300,400,700" rel="stylesheet">
+
+  <!-- icons -->
+    <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css" rel="stylesheet">
+    <link href="https://cdn.iconmonstr.com/1.3.0/css/iconmonstr-iconic-font.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/octicons/4.4.0/octicons.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  
+  <!-- Efectos -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+    <link href="https://rawgit.com/GarciaGArturo/xtraSombras/master/xtrasombras.css" rel="stylesheet">
+
+  <!-- Estilos Personalizados y extra Overwrites-->
+    <link href="/template.css" type="text/css" rel="stylesheet" />
+    <link href="/custom.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://rawgit.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/blank-template-b4.css">
+
+    <style>
+      .back-to-top {
+        cursor: pointer;
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        display:none;
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+    }
+    </style>
+  </head>
+
+  <body>
+
+    <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+      <header class="masthead mb-auto">
+        <div class="inner">
+          <h3 class="masthead-brand">Blank Template - B4!</h3>
+          <nav class="nav nav-masthead justify-content-center">
+            <a class="nav-link active" href="#">Home</a>
+            <a class="nav-link" href="https://garciagarturo.github.io/blank-template-B4.html" target="_blank">Features</a>
+            <a class="nav-link" href="https://github.com/GarciaGArturo/Blank-B4" target="_blank">on GitHub</a>
+          </nav>
+        </div>
+      </header>
+
+      <main role="main" class="cover">
+        <h1>Blank Template B4!</h1>
+        <p class="lead">Blank template. Ready to use, with the most used metatags, CDN, JS and CSS. It consists of a single file. Ideal to start from scratch.</p>
+        <p class="lead">
+          <a href="#" class="btn btn-lg btn-blanco">Download</a> <a href="#" class="btn btn-lg btn-blanco">Fork</a>
+        </p>
+      </main>
+
+      <footer class="mt-auto">
+          <p>Créditos: <a href="https://getbootstrap.com/">Bootstrap</a>, by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+      </footer>
+
+      <!-- Scroll-up -->
+        <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Subir"><i class="fa fa-arrow-up"></i></a>
+    </div>
+
+    <!-- JavaScript  -->
+      <!-- JQuery -->
+      <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+      <!-- Bootstrap js -->
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <!-- Etiqueta par botón de GitHub -->
+      <script async defer src="https://buttons.github.io/buttons.js"></script>
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a6f7cdcba180dee"></script>
+      <!-- Start of StatCounter Code for Default Guide -->
+      <script type="text/javascript">
+      var sc_project=11616942; 
+      var sc_invisible=1; 
+      var sc_security="abb20058"; 
+      var scJsHost = (("https:" == document.location.protocol) ?
+      "https://secure." : "http://www.");
+      </script>
+      <script type="text/javascript"
+      src="https://www.statcounter.com/counter/counter.js"
+      async></script>
+      <noscript><div class="statcounter"><a title="Web Analytics
+      Made Easy - StatCounter" href="http://statcounter.com/"
+      target="_blank"><img class="statcounter"
+      src="//c.statcounter.com/11616942/0/abb20058/1/" alt="Web
+      Analytics Made Easy - StatCounter"></a></div></noscript>
+      <!-- End of StatCounter Code for Default Guide -->
+        
+      <!-- Control de botón scroll-up -->
+      <script type="text/javascript">
+        $(document).ready(function(){
+         $(window).scroll(function () {
+                if ($(this).scrollTop() > 50) {
+                    $('#back-to-top').fadeIn();
+                } else {
+                    $('#back-to-top').fadeOut();
+                }
+            });
+            // scroll body to 0px on click
+            $('#back-to-top').click(function () {
+                $('#back-to-top').tooltip('hide');
+                $('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+            
+            $('#back-to-top').tooltip('show');
+          });
+        </script>
+        <!-- Control de botón scroll-up --> 
+    
+  </body>
+</html>

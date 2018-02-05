@@ -32,13 +32,13 @@ Sugiero que al avanzar en el proyecto, las referencias externas se sustituyan po
 
 [Descargar](https://github.com/GarciaGArturo/Blank-B4/archive/master.zip) / [Vista Previa](https://garciagarturo.github.io/Blank-B4/)
 
-> [![Haz click en la estrellita arriba del reposiorio en GitHub](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/img/click-star-01.jpg "Haz click en la estrellita")]((https://github.com/GarciaGArturo/Blank-B4/)
+> [![Haz click en la estrellita arriba del reposiorio en GitHub](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/img/click-star-01.jpg "Haz click en la estrellita")](https://github.com/GarciaGArturo/Blank-B4/)
 
 [Revisa los créditos y licencias correspondientes en este link](https://garciagarturo.github.io/creditos.html)
 
 ---
 #### Si deseas colaborar:
 puedes comunicarte conmigo para enriquecer o mejorar los archivos.
+
 **Arturo García**
-* [LinkedIn](https://linkedin.com/in/garciagarturo)
-* [mi correo](http://www.google.com/recaptcha/mailhide/d?k=01EB2NAIZ_2uEkjscDfJ-bHw==&c=p_0f-7ykHrzq1gLxRsjytRf7dlTywPveTBibi7Svqi8=)
+* [LinkedIn](https://linkedin.com/in/garciagarturo) / * [mi correo](http://www.google.com/recaptcha/mailhide/d?k=01EB2NAIZ_2uEkjscDfJ-bHw==&c=p_0f-7ykHrzq1gLxRsjytRf7dlTywPveTBibi7Svqi8=)

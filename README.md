@@ -41,4 +41,4 @@ Sugiero que al avanzar en el proyecto, las referencias externas se sustituyan po
 puedes comunicarte conmigo para enriquecer o mejorar los archivos.
 
 **Arturo García**
-* [LinkedIn](https://linkedin.com/in/garciagarturo) / * [mi correo](http://www.google.com/recaptcha/mailhide/d?k=01EB2NAIZ_2uEkjscDfJ-bHw==&c=p_0f-7ykHrzq1gLxRsjytRf7dlTywPveTBibi7Svqi8=)
+[LinkedIn](https://linkedin.com/in/garciagarturo) / [mi correo](http://www.google.com/recaptcha/mailhide/d?k=01EB2NAIZ_2uEkjscDfJ-bHw==&c=p_0f-7ykHrzq1gLxRsjytRf7dlTywPveTBibi7Svqi8=)

@@ -53,7 +53,7 @@ Revisa los **créditos y licencias** correspondientes [en este link](https://gar
 > [![Haz click en la estrellita arriba del reposiorio en GitHub](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/img/click-star-01.jpg "Haz click en la estrellita")](https://github.com/GarciaGArturo/Blank-B4/)
 
 ---
-**Para mantenerse al tanto de los cambios:** [@GarciaGarturo](https://twitter.com/GarciaGArturo)
+**Para mantenerse al tanto de las actualizaciones:** [@GarciaGArturo](https://twitter.com/GarciaGArturo)
 
 Puedes comunicarte conmigo para enriquecer o mejorar los archivos.
 

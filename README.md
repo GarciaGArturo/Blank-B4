@@ -3,6 +3,8 @@ Blank B4 Template
 ===
 ## Plantilla en blanco
 
+![Plantilla basada en Bootstrap](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/blank-b4-01.jpg "Basada en Bootstrap")
+
 > Plantilla basada en Bootstrap 4. Lista para usar.
 
 **[Características](https://github.com/GarciaGArturo/Blank-B4#caracter%C3%ADsticas) - [Uso](https://github.com/GarciaGArturo/Blank-B4#para-qu%C3%A9-se-usa) - [Contenido](https://github.com/GarciaGArturo/Blank-B4#contenido-del-paquete) - [Instalación](https://github.com/GarciaGArturo/Blank-B4#instalaci%C3%B3n) - [Descarga](https://github.com/GarciaGArturo/Blank-B4#descarga)**

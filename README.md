@@ -9,7 +9,7 @@ Blank B4 Template
 
 Construida con estilos y librerías CDN [(CSS, JS, Iconos, animaciones)](https://garciagarturo.github.io/creditos.html) externas, lo que permite comenzar a trabajar de inmediato sin instalar nada.
 
-Si lo desea, no necesita instalar nada más, trae los más usados CDN para que descargue y solo se dedique a desarrollar.
+Si lo deseas, no necesitas instalar nada más, trae los CDN más usados para que descargues y solo te dediques a desarrollar.
 
 ### Características:
 
@@ -30,15 +30,16 @@ Sugiero que al avanzar en el proyecto, las referencias externas se sustituyan po
 - README.md  (Instrucciones y contenido)
 - LICENSE    (Licencia)
 
-## Instalación
+### Instalación
 
 1. Descargar el archivo desde https://github.com/GarciaGArturo/Blank-B4/archive/master.zip
 2. o si lo desea: hacer [**Fork** del proyecto](https://github.com/GarciaGArturo/Blank-B4) 
 3. Descomprimir el paquete [ZIP](http://www.7-zip.org/) 
 4. Leer la [Licencia](https://raw.githubusercontent.com/GarciaGArturo/Blank-B4/master/LICENSE)
-5. Abrir el archivo index con su editor favorito
-6. Modificar los MetaTags
+5. Abrir el archivo **`index.html`** con su editor favorito
+6. Modificar los _MetaTags_ de la cabecera.
 7. Eliminar lo que se encuentra entre las etiqutas `<body>...>/body>`
+8. Desarrollar tu proyecto y **eliminar o _comentar_** lo que no necesites.
 
 ## Descarga
 

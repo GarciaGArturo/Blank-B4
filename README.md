@@ -3,7 +3,8 @@ Blank B4 Template
 ===
 ## Plantilla en blanco
 
-![Plantilla basada en Bootstrap](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/blank-b4-01.jpg "Basada en Bootstrap")
+[![Plantilla basada en Bootstrap](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/assets/blank-b4/blank-b4-01.jpg "Basada en Bootstrap")](https://github.com/GarciaGArturo/blob/master/README.md)
+
 
 > Plantilla basada en Bootstrap 4. Lista para usar.
 

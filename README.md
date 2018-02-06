@@ -1,8 +1,11 @@
+
 Blank B4 Template
 ===
 ## Plantilla en blanco
 
 > Plantilla basada en Bootstrap 4. Lista para usar.
+
+[Características](#) - [Uso](#) - [Contenido](#) - [Instalación](#) - [Descarga](#)
 
 Construida con estilos y librerías CDN [(CSS, JS, Iconos, animaciones)](https://garciagarturo.github.io/creditos.html) externas, lo que permite comenzar a trabajar de inmediato sin instalar nada.
 

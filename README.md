@@ -6,7 +6,7 @@ Blank B4 Template
 
 > Plantilla basada en Bootstrap 4. Lista para usar.
 
-[Características](#) - [Uso](#) - [Contenido](#) - [Instalación](#) - [Descarga](#)
+**[Características](https://github.com/GarciaGArturo/Blank-B4#caracter%C3%ADsticas) - [Uso](https://github.com/GarciaGArturo/Blank-B4#para-qu%C3%A9-se-usa) - [Contenido](https://github.com/GarciaGArturo/Blank-B4#contenido-del-paquete) - [Instalación](https://github.com/GarciaGArturo/Blank-B4#instalaci%C3%B3n) - [Descarga](https://github.com/GarciaGArturo/Blank-B4#descarga)**
 
 Construida con estilos y librerías CDN [(CSS, JS, Iconos, animaciones)](https://garciagarturo.github.io/creditos.html) externas, lo que permite comenzar a trabajar de inmediato sin instalar nada.
 
@@ -20,12 +20,12 @@ Si lo desea, no necesita instalar nada más, trae los más usados CDN para que d
 
 ---
 
-#### ¿Para qué se usa?
+### ¿Para qué se usa?
 Es una plantilla super básica que sirve para comenzar un desarrollo web de forma rápida. Solo descargar y usar. Además es totalmente personalizable ya que viene precargada con módulos de complementos [Bootstrap](https://getbootstrap.com) listos para usar, de tal manera que solo usas lo que necesitas y deshechas — o comentas — lo que no necesites. Al final personalizas los datos de las _Meta Etiquetas_ y listo. Tambien puedes simplemente cambiar el tema de [Bootswatch](http://Bootswatch.com) y cambia todo.
 
 Sugiero que al avanzar en el proyecto, las referencias externas se sustituyan por los archivos correspondientes de cada framework que se usen en sus respectivos directorios descargándolos de cada sitio , y simplemente eliminar las que no se usan.
 
-## Contenido del paquete:
+### Contenido del paquete:
 
 - index.html (el archivo a trabajar)
 - README.md  (Instrucciones y contenido)
@@ -47,7 +47,7 @@ Sugiero que al avanzar en el proyecto, las referencias externas se sustituyan po
 
 ---
 
-[Revisa los créditos y licencias correspondientes en este link](https://garciagarturo.github.io/creditos.html)
+Revisa los **créditos y licencias** correspondientes [en este link](https://garciagarturo.github.io/creditos.html)
 > [![Haz click en la estrellita arriba del reposiorio en GitHub](https://raw.githubusercontent.com/GarciaGArturo/garciagarturo.github.io/master/img/click-star-01.jpg "Haz click en la estrellita")](https://github.com/GarciaGArturo/Blank-B4/)
 
 ---

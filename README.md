@@ -1,7 +1,8 @@
 
 Blank B4 Template
 ===
-## Plantilla en blanco
+
+# Plantilla en blanco
 
 > Plantilla basada en Bootstrap 4. Lista para usar.
 
